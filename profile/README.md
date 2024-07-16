@@ -3,7 +3,7 @@
  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
   <h1>Lumivox Innovations</h1>
 
-  <img src="https://cdn.lumivoxinnovations.xyz/img/png/banner1.png" alt="Banner" width="860" height="720"></img>
+  <img src="https://cdn.lumivoxinnovations.xyz/img/png/banner1.png" alt="Banner" width="980" height="640"></img>
 
   # About the Tech we use
 ### :space_invader: Tech Stack
